@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gkYT_6jaT0uwDu4l0BhEBg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="astrologyfutureeye.com/zodiac/pisces-sign" DesignTimeRectangle="165, 471, 1591, 89" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='main' tag='P' /&gt;" Guid="9539ad63-0de6-48f4-8fa3-db2f7f15e5b9" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Pisces Horoscope | Pisces Traits and Personality Forecast' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="33226d848f7b56b74415cd69849eefc3.jpg" xmlns="">0lhPnvNJ2OUu-s1u7L7voog</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

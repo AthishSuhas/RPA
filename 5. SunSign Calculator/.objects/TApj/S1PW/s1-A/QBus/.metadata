@@ -1,0 +1,14 @@
+﻿{
+  "Name": "The Pisces is the last …",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "QBusjEoFz0WXsV7-TUgDag",
+  "Reference": "VONewFQ2KkiL1EUWHYYVzQ/QBusjEoFz0WXsV7-TUgDag",
+  "ParentRef": "VONewFQ2KkiL1EUWHYYVzQ/s1-A8dCOgU6y9kBN44OOFg",
+  "Created": "2026-09-26T15:04:30.8118724Z",
+  "Updated": "2026-09-26T15:04:30.8118724Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

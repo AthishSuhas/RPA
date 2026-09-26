@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="q8qRn7tXY0aizUoqF4-yBQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="myntra.com" DesignTimeRectangle="1008, 205, 41, 40" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='desktop-submit' tag='A' /&gt;" Guid="25900e21-1369-49b6-a9e3-ec3b08f1b88a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Online Shopping for Women, Men, Kids Fashion &amp;amp; Lifestyle - Myntra' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a69c802712b7c4a9613212c550de1dd5.jpg" xmlns="">0lhYTuUrmSUqBLOJ_L4BIOA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "A school-bags",
+  "Type": "Element",
+  "Id": "3fOnXrlvaEyHdPTW9CGRLA",
+  "Reference": "1NNx3G3HhE-_02cVmq3sRA/3fOnXrlvaEyHdPTW9CGRLA",
+  "ParentRef": "1NNx3G3HhE-_02cVmq3sRA/xcIhJwnuWkqO9XOhPphRfw",
+  "Created": "2026-09-26T16:26:21.1287763Z",
+  "Updated": "2026-09-26T16:26:21.1287763Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vc8hu1eBNk2Xf81s7R0Pfg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/1iW4WhxbfcIiiNXG_VfFNZ-yrOIx01xkWIROTo_ZUKg0/edit" DesignTimeRectangle="644, 796, 324, 21" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aria-label='Short answer text' idx='3' tag='INPUT' /&gt;" Guid="7ebbe6eb-1f87-4fdc-a22b-07f2e3a9f744" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Untitled form - Google Forms' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2fdde207d46ac771f6e40b3ca3093826.jpg" xmlns="">0RIUymV6F6kmrQCDQ13O5sQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

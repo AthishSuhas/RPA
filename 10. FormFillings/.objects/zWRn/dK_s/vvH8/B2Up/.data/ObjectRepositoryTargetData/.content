@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="q9BFW3ki_E2hJ5xARXyfuw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/u/0/d/e/1FAIpQLSfbwro8d26LylJDfPP_iFqQBBO2XW9oXoDImq5k7xAtHYOqmw/formResponse" DesignTimeRectangle="703, 321, 140, 15" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='A' /&gt;" Guid="3e4d74ea-24e0-4c11-b460-b0266637e920" ScopeSelectorArgument="&lt;html app='chrome.exe' title='RPA IA 2' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1d4e42917ed01c0d7b7239ec20d56d78.jpg" xmlns="">0yEOw4KT3nkS_r6wWeErF_w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
